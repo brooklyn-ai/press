@@ -17,6 +17,11 @@
 	font-family:sans-serif;
 	color:#454545;
 	background-color: whitesmoke;
+
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
 	}
 	article {
 	background-color: white;
